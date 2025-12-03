@@ -3,13 +3,13 @@
 <p align="center"><em>A visual tool for simulating, editing, and inspecting finite posets.</em></p>
 
 <p align="center">
-  <img src="docs/screenshot_main.png" width="70%" alt="Main Screenshot">
+  <img src="docs/screenshotmain.png" width="70%" alt="Main Screenshot">
 </p>
 <table>
   <tr>
-    <td><img src="docs/item1.png" width="100%"></td>
-    <td><img src="docs/item2.png" width="100%"></td>
-    <td><img src="docs/item3.png" width="100%"></td>
+    <td><img src="docs/screenshot1.png" width="100%"></td>
+    <td><img src="docs/screenshot2.png" width="100%"></td>
+    <td><img src="docs/screenshot3.png" width="100%"></td>
   </tr>
 </table>
 
@@ -50,6 +50,14 @@
 텍스트 파일 기반 커스텀 poset 로딩  
 - 구조가 복잡한 포셋 설계/연구에 적합  
 - 파일 입출력 자동 처리  
+
+---
+
+## Controls
+
+| Input | Action |
+|-------|--------|
+| **Left Click** | 노드 선택, 선택한 노드를 재클릭할 시 해당 노드까지 진행이 되돌아갑니다. | 
 
 ---
 
